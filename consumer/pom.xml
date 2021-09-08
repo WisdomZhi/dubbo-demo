@@ -13,7 +13,7 @@
         <dependency>
             <groupId>org.apache.dubbo</groupId>
             <artifactId>dubbo</artifactId>
-            <version>2.7.0</version>
+            <version>2.7.13</version>
         </dependency>
 
         <!-- 引入zookeeper客户端的依赖，dubbo 2.6以前引入zkClient， 2.6后之后引入curator -->
